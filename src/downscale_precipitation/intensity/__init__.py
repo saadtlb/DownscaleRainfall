@@ -1,0 +1,2 @@
+"""Intensity model helpers."""
+

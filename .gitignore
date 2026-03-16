@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+data/raw/
+!data/raw/.gitkeep
+data/*.txt
+data/*.csv
+figures/
+!docs/img/.gitkeep
